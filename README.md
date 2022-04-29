@@ -53,4 +53,9 @@ document.write(today);
 
 [구글](http://www.google.com, "검색 사이트")
 
+![pf2](./images/pf2.png)
+
+![chicago](https://cdn.pixabay.com/photo/2022/01/07/07/13/chicago-6921293_960_720.jpg)
+
+![symbol](https://user-images.githubusercontent.com/56223139/165918975-a82e9ea0-7fc2-4d44-a5d9-27c03011298f.gif)
 
